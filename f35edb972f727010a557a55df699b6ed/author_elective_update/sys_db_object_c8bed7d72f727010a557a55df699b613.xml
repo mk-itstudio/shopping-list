@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Shopping 1632999465341</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_689452_shopping_1632999465341</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">f15db8876d2220100acb70b3534330f2</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 10:57:47</sys_created_on>
+        <sys_id>c8bed7d72f727010a557a55df699b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping 1632999465341</sys_name>
+        <sys_package display_value="Shopping List" source="x_689452_shopping">f35edb972f727010a557a55df699b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f35edb972f727010a557a55df699b6ed</sys_scope>
+        <sys_update_name>sys_db_object_c8bed7d72f727010a557a55df699b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 10:57:47</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">f35edb972f727010a557a55df699b6ed</application>
+        <file_path/>
+        <instance_id>a80d7785dba600540b9d21c4059619f5</instance_id>
+        <instance_name>dev97486</instance_name>
+        <name>sys_db_object_c8bed7d72f727010a557a55df699b613</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Shopping 1632999465341</label><live_feed_enabled>false</live_feed_enabled><name>x_689452_shopping_1632999465341</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">f15db8876d2220100acb70b3534330f2</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-30 10:57:47</sys_created_on><sys_id>c8bed7d72f727010a557a55df699b613</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Shopping 1632999465341</sys_name><sys_package display_value="Shopping List" source="x_689452_shopping">f35edb972f727010a557a55df699b6ed</sys_package><sys_policy/><sys_scope display_value="Shopping List">f35edb972f727010a557a55df699b6ed</sys_scope><sys_update_name>sys_db_object_c8bed7d72f727010a557a55df699b613</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-30 10:57:47</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-765916874</payload_hash>
+        <record_name>Shopping 1632999465341</record_name>
+        <reverted_from/>
+        <source>f75edb972f727010a557a55df699b6ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 10:57:47</sys_created_on>
+        <sys_id>94be1bd72f727010a557a55df699b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c365a6b1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 10:57:47</sys_updated_on>
+        <type>Table</type>
+        <update_guid>10be1bd76a72701031336691b528a37b</update_guid>
+        <update_guid_history>10be1bd76a72701031336691b528a37b:-765916874</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 11:44:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>b5d29070a83c4183a6539c41012476f9</sys_id>
+        <sys_metadata>c8bed7d72f727010a557a55df699b613</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping 1632999465341</sys_name>
+        <sys_package display_value="Shopping List" source="x_689452_shopping">f35edb972f727010a557a55df699b6ed</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f35edb972f727010a557a55df699b6ed</sys_scope>
+        <sys_scope_delete display_value="">38c1d5014057477c9aef84eb0590c759</sys_scope_delete>
+        <sys_update_name>sys_db_object_c8bed7d72f727010a557a55df699b613</sys_update_name>
+        <sys_update_version display_value="sys_db_object_c8bed7d72f727010a557a55df699b613">94be1bd72f727010a557a55df699b67b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 11:44:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
